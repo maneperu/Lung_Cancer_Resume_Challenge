@@ -48,7 +48,7 @@ This project emphasizes the power of **data-driven healthcare insights** in shap
 ### 📢 Connect With Me
 If you have any suggestions or insights, feel free to reach out!
 - **LinkedIn:** [https://www.linkedin.com/in/prerana-mane-202271266/]
-- **GitHub:** []
+- **GitHub:** [https://github.com/maneperu]
 
 Thank you for checking out my project! 😊
 
